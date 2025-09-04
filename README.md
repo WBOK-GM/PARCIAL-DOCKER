@@ -78,6 +78,7 @@ como notas.txt.
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-33-22.png" />
 
 El archivo notas.txt se elimina puesto que no tiene persistencia en un volumen.
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-36-53.png" />
 
 Ejercicio 5 – Redis con Dockerfile
 
