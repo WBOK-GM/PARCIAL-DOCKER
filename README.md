@@ -37,4 +37,14 @@ Ejercicio 4 – Exploración de contenedores
 
 El archivo notas.txt se elimina puesto que no tiene persistencia en un volumen.
 
+Ejercicio 5 – Redis con Dockerfile
+
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-46-43.png" />
+
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-47-03.png" />
+
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-49-22.png" />
+
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-55-01.png" />
+
 
