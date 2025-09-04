@@ -39,9 +39,17 @@ terminal para verificar esto, para ello deben ingresar al contenedor con
 
 Ejercicio 3 – Bind mount y edición en vivo
 
+En el host, cree un directorio web con un archivo index.html que contenga
+su nombre y código estudiantil.
+
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-21-43.png" />
 
+Ejecute un contenedor de nginx:alpine que sirva ese archivo mediante un
+bind mount de solo lectura.
+
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-15-26.png" />
+Acceda en el navegador a http: /localhost:8080 y capture la
+evidencia.
 
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-18-08.png" />
 
