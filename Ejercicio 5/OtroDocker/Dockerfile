@@ -1,0 +1,3 @@
+FROM redicito
+
+EXPOSE 6379
