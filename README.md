@@ -53,13 +53,27 @@ evidencia.
 
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-18-08.png" />
 
+Modifique el index.html en su host (agregue una línea con su calificación
+del curso hasta la fecha, comentarios o feedback).
+
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-19-11.png" />
+
+Refresque la página y capture la evidencia del cambio.
 
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-19-21.png" />
 
 Ejercicio 4 – Exploración de contenedores
 
+ Ejecuta un contenedor basado en su imagen personalizada del Ejercicio 1
+en modo interactivo con sh.  
+
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-36-53.png" />
+
+Dentro del contenedor:
+○ Cree un archivo nuevo llamado notas.txt en /app.
+○ Muestre la ruta de trabajo con pwd.
+○ Liste los archivos para demostrar que existen tanto mensaje.txt
+como notas.txt.
 
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-33-22.png" />
 
