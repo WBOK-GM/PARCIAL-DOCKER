@@ -9,4 +9,7 @@ Ejercicio 1 – Imagen personalizada
 Ejercicio 2 – Persistencia con volúmenes
 
 <img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2018-41-31.png" />
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-02-42.png" />
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-05-57.png" />
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-06-55.png" />
 
