@@ -31,8 +31,10 @@ Ejercicio 3 – Bind mount y edición en vivo
 
 Ejercicio 4 – Exploración de contenedores
 
-<img width="1042" height="163" alt="image" src="" />
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-36-53.png" />
 
-<img width="1042" height="163" alt="image" src="" />
+<img width="1042" height="163" alt="image" src="https://github.com/WBOK-GM/PARCIAL-DOCKER/blob/main/images/Screenshot%20From%202025-09-03%2019-33-22.png" />
 
-<img width="1042" height="163" alt="image" src="" />
+El archivo notas.txt se elimina puesto que no tiene persistencia en un volumen.
+
+
